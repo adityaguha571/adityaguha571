@@ -1,5 +1,4 @@
-##🔭 I’m currently working on developing new skills, and honing known ones;
-[![An image of @adityaguha571's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaguha571)](https://holopin.io/@adityaguha571)
+🔭 I’m currently working on developing new skills, and honing known ones;
 <!--
 **adityaguha571/adityaguha571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @adityaguha571's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaguha571)](https://holopin.io/@adityaguha571)
